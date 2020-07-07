@@ -1,5 +1,5 @@
 {
-  "name": "new-button",
+  "name": "new-button-component",
   "version": "0.0.1",
   "description": "Sample button created in stencil",
   "main": "dist/index.js",
@@ -28,5 +28,13 @@
   "dependencies": {
     "typescript": "^3.8.3"
   },
-  "author": "Josh Seltzer"
+  "author": "Josh Seltzer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jseltzer7/new-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jseltzer7/new-button/issues"
+  },
+  "homepage": "https://github.com/jseltzer7/new-button#readme"
 }

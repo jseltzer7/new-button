@@ -5,7 +5,7 @@ import { Component, ComponentInterface, h, Prop } from '@stencil/core';
   styleUrl: 'new-button.scss',
   shadow: true,
 })
-export class NewButton implements ComponentInterface {
+export default class NewButton implements ComponentInterface {
 
   @Prop({mutable: true}) text: string;
 

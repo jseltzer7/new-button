@@ -1,6 +1,6 @@
 {
   "name": "new-button-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sample button created in stencil",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
